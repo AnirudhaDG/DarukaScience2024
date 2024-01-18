@@ -42,7 +42,7 @@ This repo runs all the science sensors used in our sensor array.
 * Library: https://github.com/4-20ma/ModbusMaster.git
 * Protocol: RS485
 * Voltage: 12V
-* Datasheet: [attached](./npk-datasheet.pdf)
+* Datasheet: [attached](./npk-datasheet.pdf). This is not exactly the same sensor, but it's the best lead we have.
 
 ### MAX485 RS485 Module (for NPK Soil Sensor)
 * IC product page: https://www.analog.com/en/products/max485.html
